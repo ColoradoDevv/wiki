@@ -44,7 +44,7 @@ export default function Conclusion() {
       <div style={{ textAlign: 'center', padding: '14px 16px', backgroundColor: '#FFF6E3', borderRadius: 14, border: '2px dashed #CDC1FF', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8, flexWrap: 'wrap' }}>
         <GraduationCap size={16} style={{ color: '#6b7280', flexShrink: 0 }} />
         <p style={{ margin: 0, fontSize: 13, fontWeight: 700, color: '#6b7280', fontFamily: "'Nunito', sans-serif" }}>
-          Wiki elaborada para el curso de Psicología General · UNAD · 2025
+          Wiki elaborada para el curso de Procesos Psicológicos · UNAD · 2026
         </p>
       </div>
     </div>
