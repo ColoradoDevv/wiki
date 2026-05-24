@@ -108,7 +108,7 @@ export default function Navbar({ active, onSelect, open, onClose }) {
         {/* Footer */}
         <div style={{ padding: '10px 20px', borderTop: '1px solid #f3f4f6', flexShrink: 0 }}>
           <p style={{ margin: 0, fontSize: 10, color: '#d1d5db', textAlign: 'center', fontWeight: 600, fontFamily: "'Nunito', sans-serif" }}>
-            Psicología General · 2025
+            Procesos Psicologícos · 2026 <br></br>Creado por Mariana Betancourt Guerrero
           </p>
         </div>
       </aside>
